@@ -1,0 +1,17 @@
+{
+    "contents" : "---\ntitle: \"test\"\noutput: html_document\n---\n## This is a markdown file",
+    "created" : 1409620752463.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "148729748",
+    "id" : "99B56C69",
+    "lastKnownWriteTime" : 1409620799,
+    "path" : "C:/Users/danilo/test-repo/test.Rmd",
+    "project_path" : "test.Rmd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_markdown"
+}
